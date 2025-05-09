@@ -1,0 +1,51 @@
+[
+    {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6ImowblFCRi9VWTVGa3ZFUHEzTkQxVFE9PSIsInZhbHVlIjoiaEhYQTRkZW1PRkdNZ2Y1NndYZGE0VGV1Sno5T0dKckJTblNqNm96VG5QTG9nK2RkYnd6UDdSUEJ4d0cvRVB6bFAwOWNFckg0QkNvSDIxU3IyOTZ3cVU2RGc2UTA4REpPUWUvTnRyQStWbzFVRWMzd1VWZU4zVlhLQmVwZjdmYVoiLCJtYWMiOiIxMjhhMmJkNmM4MzE5YTRiMDQ1ODM3ZWQ2MmRlMTcxMDI3MTM0Y2ZjNTQ3ZTZhYjk3Njk2NDIwMmU1NDg3YTAxIiwidGFnIjoiIn0%3D",
+        "path": "/",
+        "domain": ".amaderit.net",
+        "secure": true,
+        "httpOnly": false,
+        "expiry": 1746790923,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "amaderhr_session",
+        "value": "eyJpdiI6InQraHRJWWQvbFBKSG1UL0FEWkhldVE9PSIsInZhbHVlIjoiSmNtdExkTXUxWWJUckF5d3EwQ0dhRW1DWSt4elhZMHVhS3k2R2pIYWJSTGFQRlRJa3lsak5pTjlZcmVJamgzYnhCNzRPRVcxYWFZemlzeEVOaDVXcmpwa2dRNitORThScy9wVCs4UjlITXptMC9zMVAyZDVJeFNkaU9TUEFVUkMiLCJtYWMiOiIwZTgxODBhZjZmNzYwZDcxN2YxNmU4YTk5M2M3MzRkYTJjOGIwYmNhY2I3NTYwY2RjZTJhMGMzYmNhYWU3NjZiIiwidGFnIjoiIn0%3D",
+        "path": "/",
+        "domain": ".amaderit.net",
+        "secure": true,
+        "httpOnly": true,
+        "expiry": 1746790923,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6IkFza21kNThVUE5BVXAxeER0UVExVVE9PSIsInZhbHVlIjoiQnFyck4rbHVmZjBGQTljU08wNDFoUUdyWlpvR0NQK1hBVXNMQXlxcmNuSStXWEdqakswMUhFRXMyTjJVK3Q4a1lFUUNybXVEQWlocGkxUXFvSkQxRXQrQVFkYWExUDNNem1sNEswWnV3NXFIemlWN0NWVFJJcjVrU01YSjJxblkiLCJtYWMiOiJiZDg0ZjUzNzQyN2ZlMmIyZDJjZjAzNGE0MGNiMjE5ZTgxZDhhMDMzY2I4MjEwNGNkMGM3OTIyMGJmOTc1ZjMwIiwidGFnIjoiIn0%3D",
+        "path": "/",
+        "domain": "amaderit.net",
+        "secure": true,
+        "httpOnly": false,
+        "expiry": 1746791091,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "amaderhr_session",
+        "value": "eyJpdiI6IlNrb05zb3ovQzkzQktNM3g3T1NxUmc9PSIsInZhbHVlIjoidU4vQVovMXRVVTJJZTNJNVdhTXhTa2Q4clVvRkdhNVJQMmxpc0FmbWhnT2JZTG9yUlg2SzllaldraDBpVHlzeE5vWHJQQ0lzUE03NlJRME9HVDVkdSszdTJKM2JncGtlMFlaaG4xcW1NZTZDVU5LRTMydzl1RWIzL2lJeUNZenAiLCJtYWMiOiI0MWZlZmRkNWY4ZmEzYWFiODMzNTMwYTg1YWFjNThmYjc0MTYxMzE1Mjk5MGMyMmM2M2ZiYWRhNzBhNTU4MzNiIiwidGFnIjoiIn0%3D",
+        "path": "/",
+        "domain": "amaderit.net",
+        "secure": true,
+        "httpOnly": true,
+        "expiry": 1746791091,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "TestCookie",
+        "value": "UpdatedValue",
+        "path": "/",
+        "domain": "amaderit.net",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "None"
+    }
+]

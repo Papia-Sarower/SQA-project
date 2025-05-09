@@ -1,0 +1,51 @@
+[
+    {
+        "domain": "amaderit.net",
+        "httpOnly": false,
+        "name": "TestCookie",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "UpdatedValue"
+    },
+    {
+        "domain": "amaderit.net",
+        "expiry": 1746791072,
+        "httpOnly": true,
+        "name": "amaderhr_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJpdiI6Ik9IeUVUS1pDZzlIN2hUajV2L1VXanc9PSIsInZhbHVlIjoiZlhaMVhNR3VncnZvS2EwcFVWa3lpZFJnSlFtRFJuOVQ0RjNUU0JzekRucHVvbFh0ckdMR2Eybnl5dmYvMFg1bE5XbHp6UFUyV3VMeFdXVFhqSmI1bVZLUWxTMUdsV3Avb2xEbGFpa1IxSEwveUtWSXlvVHgrTUhKUTdjdWdLUDQiLCJtYWMiOiJmNTgwMzZlYTE4ZDAyM2MzMDliMTJhNGEyZTE4NGM5YTE0ODQyNmMxZGIzZTk1YTBmMWNhYWY5ZDI2YTkwYTBkIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": "amaderit.net",
+        "expiry": 1746791072,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJpdiI6IitIeWZCQUlTbG5BOWw4cklER0I5N0E9PSIsInZhbHVlIjoiaGllZjhRSklVOU9yVlRaeklrUXBJbnZORVIzRjFpWDdCTUJueXJHcy9mSTdEem9Kek1jcE1kWk92UE01NDNTVU8xaTB4MXoySEl1T2dvTGhEck82NkhUK3MxS2oyUkplamdiczJoVjUwMkxobUh0anY1OTdMejVOM3g5SXA5N3MiLCJtYWMiOiJhYzA4YTM1MWFhYmUwYmE1MDJkNjRkOWJjYzZmNWRmMDBjODNlNmNiOTVhNzc2NjgwODQ0ZjVhOGEyMGVlNWFlIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": ".amaderit.net",
+        "expiry": 1746786836,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJpdiI6IjRPbjFTY3dNOXVGL2VWK1VmS0JSL3c9PSIsInZhbHVlIjoiSUhZQjdxeGk0MmVrUkN2SHpFV0hzMmpOSzlFQWF2N0RRNVpzOXZpOGtSVUNHNmpNZmg0emxGY0xodnhCY1lNYnF1bXZTc2RDVG5EOFZSSU9YelhscTRxTExhaXcxN2REdzV4VmNMWCt5a1VSdHMxNmhYdEFGZHIza0svRmdockgiLCJtYWMiOiJhNjMyOGYzNGVhZmUzNjFkMTRkNDEzYzY2NDg1MWZlNDZiMzU4NWNmMjVkNTIyYmYyYzgwYjFhZWM3NTMwMzkwIiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": ".amaderit.net",
+        "expiry": 1746786836,
+        "httpOnly": true,
+        "name": "amaderhr_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJpdiI6IlBwYW8rVnhnUUlDYnJyS2VZZVBJNUE9PSIsInZhbHVlIjoiRW55Wno2VVN1a0Y3SFhydTFtMFpFaE1yVWI4d2VaN3hTbVZ6NUpSWlBRVitOZUtyUVB2UkVEZjVtK0N0SkVZMFFTdmFqUUdTdjZXSTFScitxQ2prNzVVY2xDZlh0R1E0SzdaU041ZER6YWhVaUVDVUdhZEtMVGFzbVN6allsMGMiLCJtYWMiOiI3MTI5ZGVmNWU1NzliNDg0YzIxODhlYjE4NTUxZWUyZjM2MWVhMzQzZjZkZDNjNDExMjI0ODVkYjg5MmY1ZmY3IiwidGFnIjoiIn0%3D"
+    }
+]
